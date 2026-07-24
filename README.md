@@ -17,8 +17,6 @@ Click on Youtube Icon 👇
   <img src="https://static.vecteezy.com/system/resources/previews/018/930/572/non_2x/youtube-logo-youtube-icon-transparent-free-png.png" alt="YouTube Logo" width="80">
 </a>
 
-## Live Preview
-Click 👉 [here](https://github.com/sriramsunkara10/Tube-clock) to view the live demo 😍.
 
 ## Result Images 
 ![Tube Clock ](https://github.com/naveen-kumawat/Tube-Clock/assets/63699592/36424126-f06f-4053-9353-c727fafaf89f)
